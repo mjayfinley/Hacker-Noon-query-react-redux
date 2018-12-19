@@ -1,4 +1,4 @@
-const FRONTEND_DEV_URLS = ['http://localhost:3000' ];
+const FRONTEND_DEV_URLS = ['https://lit-taiga-65019.herokuapp.com/' ];
 
 const FRONTEND_PROD_URLS = [
   'https://wwww.yourdomain.com',
